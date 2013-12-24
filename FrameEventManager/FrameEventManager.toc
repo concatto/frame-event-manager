@@ -1,0 +1,6 @@
+## Interface: 50400
+## Title: FrameEventManager
+## Author: Concatto
+## SavedVariables: FEM_combat
+
+FrameEventManager.lua
